@@ -1,0 +1,23 @@
+html{
+    height: 200%;
+    width: 200px;
+}
+
+.border-sky{
+    border: 6px solid skyblue;
+}
+
+.border-green{
+    border: 6px solid darkblue;
+}
+
+.img-size{
+    width: 200px;
+    height: 200px;
+}
+
+.margin-space{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
