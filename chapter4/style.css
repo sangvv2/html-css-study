@@ -102,9 +102,18 @@ body{
     color: rgba(0, 0, 0, 0.54);
     padding-right: 15px;
 }
-.final-line-a:hover{
-    text-decoration: none;
+
+
+.final-line-a:link{
+    color:black;
 }
 .final-line-a:visited{
     color:purple;
 }
+.final-line-a:hover{
+    color:#1a0dab;
+    text-decoration: underline;
+}
+.final-line-a:active{
+    color:orange;
+}/* :link -> :visited-> :hover -> :active 이 순서를 지켜야 정상작동된다.
