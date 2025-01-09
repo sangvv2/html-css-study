@@ -12,8 +12,18 @@ body{
     color:black;
     margin-right:15px;
 }
+.nav-item::link{
+    color:black;
+}
+.nav-item:visited{
+    color:darkslateblue;
+}
 .nav-item:hover{
     text-decoration:underline;
+    color:#1a0dab;
+}
+.nav-item:active{
+    color:orange;
 }
 
 
@@ -108,7 +118,7 @@ body{
     color:black;
 }
 .final-line-a:visited{
-    color:purple;
+    color:darkslateblue;
 }
 .final-line-a:hover{
     color:#1a0dab;
