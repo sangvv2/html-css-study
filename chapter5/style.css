@@ -44,7 +44,7 @@
 .box-position{
     position: absolute;/*부모(조상) 요소를 기준으로 배치 = 이 창에서는 div1(big box)를 기준으로 배치*/
     left: 50px;
-    top: 100px;
+    top: 50px;
 }
 
 
