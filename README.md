@@ -9,3 +9,6 @@ https://googlepage3.netlify.app
 
 chapter5(position and flexbox)
 https://position1flexbox.netlify.app/
+
+chapter(spotify)
+https://spotifypage1.netlify.app/
