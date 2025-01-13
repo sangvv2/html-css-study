@@ -41,3 +41,13 @@ footer{
     text-align: center;
   }
 }
+.flag-img {
+  margin: 0 0.5rem;
+}
+.navbar {
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.nav-link {
+  font-size: 14px;
+}
