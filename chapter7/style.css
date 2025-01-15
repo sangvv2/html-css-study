@@ -23,6 +23,12 @@ footer{
 }
 
 @media screen and (max-width: 48rem){
+  .flag{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 48rem){
   .first-line{
     text-align: center;
   }
@@ -39,6 +45,7 @@ footer{
   .third-line{
     display: block;
     text-align: center;
+    padding-bottom: 2rem
   }
 }
 .flag-img {
@@ -51,14 +58,8 @@ footer{
 .nav-link {
   font-size: 14px;
 }
-.flag {
-  color: white;
-  display: none;
-}
-.mobile-footer {
-  display: block;
-  padding-bottom: 2rem
-}
+
+
 .col {
   padding-bottom: 1rem;
 }
