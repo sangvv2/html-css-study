@@ -51,3 +51,14 @@ footer{
 .nav-link {
   font-size: 14px;
 }
+.flag {
+  color: white;
+  display: none;
+}
+.mobile-footer {
+  display: block;
+  padding-bottom: 2rem
+}
+.col {
+  padding-bottom: 1rem;
+}
